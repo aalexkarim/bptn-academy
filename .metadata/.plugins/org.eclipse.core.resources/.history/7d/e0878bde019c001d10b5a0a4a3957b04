@@ -1,0 +1,12 @@
+package introtojava;
+
+public class ArithmeticOperations {
+	
+	public static void main(String[] args) {
+        int currentYear = 2023;
+        int age = 30;
+        int birthYear = (int)currentYear - age ;
+        System.out.println(age);
+
+	}
+}
